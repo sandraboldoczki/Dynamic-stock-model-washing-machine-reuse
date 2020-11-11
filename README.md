@@ -13,7 +13,7 @@ Guide to Supporting Information S19 (of 19)
 
 To whom correspondence should be addressed: *) Sandra Boldoczki, Universitaetsstr. 16, 86159, Augsburg, Germany, sandra.boldoczki@wiwi.uni-augsburg.de
 
-GUIDE TO THE DYNAMIC STOCK MODEL FOR WASHING MACHINE REUSE
+GUIDE TO THE HYBRID DYNAMIC STOCK MODEL FOR WASHING MACHINE REUSE
 
 This paper comes with a third supplementary file, a zip archive ‘DSM_WM_reuse_SI19.zip’. This archive contains three subfolders:
 
