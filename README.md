@@ -17,7 +17,7 @@ GUIDE TO THE HYBRID DYNAMIC STOCK MODEL FOR WASHING MACHINE REUSE
 
 This paper comes with a third supplementary file, a zip archive ‘DSM_WM_reuse_SI19.zip’. This archive contains three subfolders:
 
-• A folder ‘Data’, where the Excel workbook ‘Input_DSMWM.xlsx’ with the above described parameters is located
+• A folder ‘Data’, where the Excel workbook ‘Input_DSMWM.xlsx’ with all parameters is located
 
 • A folder ‘Results’, which is empty and where the scripts store the model results
 
