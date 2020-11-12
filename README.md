@@ -19,7 +19,7 @@ This paper comes with a third supplementary file, a zip archive ‘DSM_WM_reuse_
 
 • A folder ‘Data’, where the Excel workbook ‘Input_DSMWM.xlsx’ with all parameters is located
 
-• A folder ‘Results’, which is empty and where the scripts store the model results
+• A folder ‘Results’, which is empty and where the script stores the model results
 
 • A folder ‘Script’, which contains the model script ‘DSM_WM_reuse.py’.
 
