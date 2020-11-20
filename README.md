@@ -17,7 +17,7 @@ The GitHub repository contains three subfolders:
 
 • A folder ‘Script’, which contains the model script ‘DSM_WM_reuse.py’.
 
-The model script is a standalone script, which apart from standard Python modules does not need further software.To run the hybrid dynamic stock model for a specific parameter constellation, one needs to adapt the respective parameters in the datafile.
+The model script is a standalone script, which apart from standard Python modules does not need further software. To run the hybrid dynamic stock model for a specific parameter constellation, one needs to adapt the respective parameters in the datafile.
 
 The script will then create a subfolder in the results folder with the name structure DateStamp_Timestamp. In this folder, a copy of the script, and the model results as .xls files are stored.
 
