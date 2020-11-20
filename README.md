@@ -9,7 +9,7 @@ To whom correspondence should be addressed: *) Sandra Boldoczki, Universitaetsst
 
 
 This document provides a guide to the Python code of the hybrid dynamic stock model for washing machine reuse.
-The Github repository contains three subfolders:
+The GitHub repository contains three subfolders:
 
 • A folder ‘Data’, where the Excel workbook ‘Input_DSMWM.xlsx’ with all parameters is located
 
@@ -21,4 +21,4 @@ The model script is a standalone script, which apart from standard Python module
 
 The script will then create a subfolder in the results folder with the name structure DateStamp_Timestamp. In this folder, a copy of the script, and the model results as .xls files are stored.
 
-Note: The hybrid dynamic stock model script can be run and modified for research and teaching purposes. No additional support is provided by the authors. Check https://github.com/sandraboldoczki/Hybrid-Dynamic-stock-model-washing-machine-reuse for updates on the hybrid dynamic stock model code.
+Note: The hybrid dynamic stock model script can be run and modified for research and teaching purposes. No additional support is provided by the authors.
