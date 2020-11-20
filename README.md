@@ -2,9 +2,9 @@
 
 Guide to the hybrid dynamic stock model for washing machine reuse
 
-Titel: Does increased circularity lead to environmental sustainability? The case of washing machine reuse in Germany (submitted to the Journal of Industrial Ecology)
-Sandra Boldoczki*, Andrea Thorenz, Axel Tuma
-Resource Lab, University of Augsburg, Augsburg, Germany
+Titel: Does increased circularity lead to environmental sustainability? The case of washing machine reuse in Germany (submitted to the Journal of Industrial Ecology)	<br /> 	<br /> 
+Sandra Boldoczki*, Andrea Thorenz, Axel Tuma <br /> 
+Resource Lab, University of Augsburg, Augsburg, Germany <br /> <br /> 
 To whom correspondence should be addressed: *) Sandra Boldoczki, Universitaetsstr. 16, 86159, Augsburg, Germany, sandra.boldoczki@wiwi.uni-augsburg.de
 
 
