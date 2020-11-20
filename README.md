@@ -9,7 +9,7 @@ To whom correspondence should be addressed: *) Sandra Boldoczki, Universitaetsst
 
 
 This document provides a guide to the Python code of the hybrid dynamic stock model for washing machine reuse.
-The Github repository contains a zip archive ‘DSM_WM_reuse.zip’, this archive contains three subfolders:
+The Github repository contains three subfolders:
 
 • A folder ‘Data’, where the Excel workbook ‘Input_DSMWM.xlsx’ with all parameters is located
 
